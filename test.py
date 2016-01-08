@@ -9,5 +9,3 @@ print('this is 2 line!')
 print('3')
 
 # new comment
-
-a = []
